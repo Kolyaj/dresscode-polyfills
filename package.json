@@ -1,0 +1,14 @@
+{
+    "author": {
+        "name": "Kolyaj",
+        "email": "kolyaj@yandex.ru",
+        "url": "https://github.com/Kolyaj"
+    },
+    "name": "dresscode-polyfills",
+    "version": "0.0.1",
+    "homepage": "https://github.com/Kolyaj/dresscode-polyfills",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Kolyaj/dresscode-polyfills.git"
+    }
+}
